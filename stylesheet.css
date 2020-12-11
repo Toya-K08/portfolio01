@@ -483,6 +483,7 @@ section h2 span {
     top: 0;
     width: 50px;
 }
+
 /*透過背景部分*/
 #menu-background {
     background-color: #333; /*黒背景部分背景色*/
@@ -506,8 +507,3 @@ section h2 span {
     opacity: 0.5; /*黒背景部分透過度*/
     z-index: 999;
 }
-
-
-
-
-
