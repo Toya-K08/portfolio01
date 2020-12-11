@@ -488,7 +488,7 @@ section h2 span {
 
 /*透過背景部分*/
 #menu-background {
-    background-color: #333; /*黒背景部分背景色*/
+   
     display: block;
     height: 100%;
     opacity: 0;
