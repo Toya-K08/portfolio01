@@ -177,7 +177,7 @@ section h2 span {
 }
 
 #sec04_02{
-	background: url(../https://github.com/Toya-K08/portfolio01/blob/main/bgSec04.jpg?raw=true) no-repeat 100% 100% fixed;
+	background: url(../bgSec04.jpg) no-repeat 100% 100% fixed;
 	background-size: cover;
 	-webkit-background-size: cover;
 	text-align: center;
